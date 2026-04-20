@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey there! 😄
 
 I'm Claudia, a Data/AI Engineer based in Houston.
 
